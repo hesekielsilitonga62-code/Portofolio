@@ -1,0 +1,68 @@
+*{
+    box-sizing:border-box
+}
+
+body{
+    background-color:lightyellow;
+    margin:0;
+}
+
+#Home{
+    height: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+#navigasi{
+    background-color: rgb(255, 115, 0);
+    text-align: center;
+}
+
+#Project1{
+    height: auto;
+    background-color: rgb(255, 217, 171);
+    padding: 20px;
+    text-align: center;
+}
+
+h1{
+    font-size: 36pt;
+    text-align: center;
+    color : rgb(117, 48, 18);
+}
+h2{
+    color : brown;
+}
+
+p{
+    margin-left: 50px;
+}
+
+#sapa{
+    color : rgb(117, 48, 18);
+}
+
+#tentang{
+    color : rgb(0, 0, 0);
+}
+
+#About{
+    height: auto;
+    background-color: rgb(255, 115, 0);
+    padding: 20px;
+    text-align: center;
+}
+
+#Contact{
+    height: auto;
+    background-color: rgb(255, 217, 171);
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+.judulc{
+    text-align: center;
+}
+
